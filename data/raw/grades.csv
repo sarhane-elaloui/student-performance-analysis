@@ -1,0 +1,6 @@
+student_id,math,physics,chemistry,attendance,gender
+1,78,82,85,0.92,M
+2,65,70,68,0.85,F
+3,92,95,89,0.97,M
+4,45,50,55,0.78,F
+5,88,84,90,0.94,M
